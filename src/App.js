@@ -1,5 +1,4 @@
 import logo_cb from './casa_bonita_logo.png';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
