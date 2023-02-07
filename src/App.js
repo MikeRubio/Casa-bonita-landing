@@ -1,4 +1,3 @@
-import logo_cb from './casa_bonita_logo.png';
 import './App.css';
 
 function App() {
